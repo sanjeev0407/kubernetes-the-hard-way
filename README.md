@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo&ab_channel=KodeKloud
+
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
 # Kubernetes The Hard Way On VirtualBox
